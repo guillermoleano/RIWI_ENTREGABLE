@@ -4,15 +4,16 @@
 
 
 
-### 🚀 Cómo clonar y ejecutar el proyecto
+## 🚀 Cómo clonar y ejecutar el proyecto
 
 ### 1. Clonar el repositorio
     
-    1. Abre **Visual Studio Code**.
-    2. Abre la **terminal** (Terminal → New Terminal).
-    3. Copia y ejecuta el siguiente comando para clonar el repositorio:
-       ```bash
-    git clone https://github.com/guillermoleano/RIWI_ENTREGABLE.git ```
+1. Abre **Visual Studio Code**.
+2. Abre la **terminal** (Terminal → New Terminal).
+3. Copia y ejecuta el siguiente comando para clonar el repositorio:
+```python
+git clone https://github.com/guillermoleano/RIWI_ENTREGABLE.git
+```
 
 ### 2. Entrar a la carpeta del proyecto
 
@@ -22,15 +23,14 @@ cd RIWI_ENTREGABLE
 
 ### 3. Ejecutar el proyecto
 Para ejecutar el programa, usa el siguiente comando en la terminal:
-```bash
-python inventario.py ```
+```python
+python inventario.py
+```
 
 ***El programa se ejecutará en la terminal y te pedirá ingresar:
 Nombre del producto
 Precio
 Cantidad***
-
-
 
 # EXPLICACION DEL PROYECTO: REGISTRO DE UN PRODUCTO EN UN INVENTARIO
 
