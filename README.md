@@ -1,6 +1,11 @@
 
 # DIAGRAMA DE FLUJO
 ![image alt](https://github.com/guillermoleano/RIWI_ENTREGABLE/blob/cd1a7cb7e00823d7b78bc85b83291f59f9247a56/DIAGRAMA%20DE%20FLUJO.jpg)
+
+Como clonar, como ejecutar y como probar mi proyecto 
+
+
+
 # REGISTRO DE UN PRODUCTO EN UN INVENTARIO
 
 1. Aqui se definen las variables para el nombre del producto, la cantidad y el precio, se asignan los tipos de datos correspondientes a cada variable. 
@@ -62,6 +67,9 @@ print(f"Producto: {nombre} / Precio: {precio} / Cantidad: {cantidad} / Total: {c
 el nombre de un producto, su precio y la cantidad disponible. El programa valida que el nombre del producto solo 
 contenga letras y espacios, que el precio sea un numero valido y que la cantidad sea un numero entero. Luego, calcula 
 el costo total multiplicando el precio por la cantidad y muestra un mensaje con los detalles del producto y el costo total.***
+
+
+
 
 
 
