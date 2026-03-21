@@ -46,6 +46,26 @@ while True:
         
     else:
         print(" Opción inválida, intenta nuevamente")
+# -----------------------------------------------------------------
+# Notas sobre lo que aprendí al hacer este programa:
+#
+# - Separé el código en funciones: agregar_producto(), mostrar_inventario() y calcular_estadisticas().
+#   Esto ayuda a que el código sea más limpio, fácil de leer y mantener.
+#
+# - Cada producto se guarda como un diccionario con las claves:
+#   "nombre", "cantidad", "precio" y "costo_total". Esto hace que los datos sean fáciles de manejar.
+#
+# - Todos los productos se almacenan en una lista llamada inventario1.
+#   La lista funciona como historial de todos los productos ingresados.
+#
+# - Hice validaciones de datos para asegurarme de que:
+#     * Los nombres solo tengan letras
+#     * Las cantidades sean números enteros
+#     * Los precios sean números decimales
+#   Así evito errores al ejecutar el programa.
+#
+# - El menú se creó usando while True y if-elif-else para que el usuario pueda
+#   elegir acciones varias veces hasta que decida salir.
 
     
 
